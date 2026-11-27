@@ -1,1 +1,1 @@
-# git-practice
+Git helps developers track code changes, manage branches, and collaborate efficiently on software projects.
